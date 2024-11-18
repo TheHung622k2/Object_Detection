@@ -14,8 +14,8 @@ sys.path.append('../')
 import loader as loader
 from src.nets.googlenet import GoogLeNet
 
-PRETRINED_PATH = 'D:/Projects/GoogLeNet/pre-trained-models/googlenet.npy'
-DATA_PATH = 'D:/Projects/GoogLeNet/test-images'
+PRETRINED_PATH = 'E:/Projects/Object_Detection/pre-trained-models/googlenet.npy'
+DATA_PATH = 'E:/Projects/Object_Detection/test-images'
 IM_CHANNEL = 3
 
 
